@@ -11,11 +11,24 @@ text-align: center;
 }
 
 .neo {
-font-size: 15px;
+font-size: 16px;
 text-align: center; 
 }
 
 img {
     width:150px;
-    height:120px;
+    height:137px;
 }
+
+body {
+    background-color: #F5F5F5;
+} 
+
+.imgSucesso
+{
+    width:300px;
+    height:300px;
+}
+
+
+

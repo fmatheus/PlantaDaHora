@@ -34,9 +34,19 @@
 			<location>C:/Users/maroc/Desktop/plantaHora/plantaHora3/plantaHora/imagensVer2</location>
 		</link>
 		<link>
+			<name>imagensVer2/bemVindo</name>
+			<type>2</type>
+			<location>C:/Users/maroc/Desktop/plantaHora/plantaHora3/plantaHora/imagensVer2/bemVindo</location>
+		</link>
+		<link>
 			<name>imagensVer2/sucesso.png</name>
 			<type>1</type>
 			<location>C:/Users/maroc/Desktop/plantaHora/plantaHora3/plantaHora/Imagens/sucesso.png</location>
+		</link>
+		<link>
+			<name>imagensVer2/tutorial.png</name>
+			<type>1</type>
+			<location>C:/Users/maroc/Desktop/plantaHora/plantaHora3/plantaHora/imagensVer2/tutorial.png</location>
 		</link>
 		<link>
 			<name>imagensVer2/lugar/Floresta.png</name>
